@@ -89,6 +89,8 @@ If the chasing team scores more than the target, they win immediately.
 
 ## 🚀 About
 
-This is one of my early Python projects, created while learning programming fundamentals. The goal was to simulate a complete hand cricket match using Python and strengthen my understanding of functions, loops, conditional logic, and problem-solving.
+## 🚀 About
 
-I'm continuously learning Python and building projects to improve my programming skills. Feedback and suggestions are always welcome!
+This is one of my first Python projects, created while I was learning the fundamentals of programming. The goal was to simulate a complete hand cricket match while practicing functions, loops, conditionals, user input validation, and random number generation.
+
+As I'm still new to Python, there is plenty of room for improvement, and I plan to continue updating this project as my skills grow. Constructive feedback, suggestions, and advice are always appreciated. Thank you for taking the time to check out my project!
